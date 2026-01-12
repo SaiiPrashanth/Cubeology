@@ -1,6 +1,8 @@
-# Cubeathon
+# Cubeology
 
-**Cubeathon** is a 3D platformer/runner project built with **Unreal Engine 5**.
+![Gameplay](Screenshots/Cubeology_extra.gif)
+
+**Cubeology** (formerly Cubeathon) is a 3D platformer/runner project built with **Unreal Engine 5**.
 
 ## Overview
 
@@ -22,14 +24,14 @@ A creative open-world building game where players can design levels and construc
 ## Installation
 
 1. Clone the repository.
-2. Right-click `Project/Cubeathon.uproject` and select **Generate Visual Studio project files** (if C++ is involved) or just **Launch Game**.
+2. Right-click `Project/Cubeology.uproject` and select **Generate Visual Studio project files** (if C++ is involved) or just **Launch Game**.
 3. Open the project in the Unreal Editor.
 
 ## Script Reference
 
 This project utilizes **Unreal Engine Blueprints** for all game logic. There are no C++ source files.
 
-### Key Blueprints (In `Content/Cubeathon/Blueprints/`)
+### Key Blueprints (In `Content/Cubeology/Blueprints/`)
 - **`Actors/`**: Interactive world objects.
 - **`Characters/`**: Player controller and pawn logic (The Cube).
 - **`Core/`**: GameMode, GameState, and Level configurations.
